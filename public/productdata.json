@@ -1,0 +1,393 @@
+[
+  {
+    "code_name": "pl-44",
+    "id": 1,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1200,
+    "image1": "https://i.ibb.co/QbTQmLX/2.png",
+    "image2": "https://i.ibb.co/4Rr4H7Y/Artboard5-1bdaed7e-8a2c-4a8f-96dc-38c664057dd1.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-11",
+    "id": 2,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 950,
+    "image1": "https://i.ibb.co/WBWJyyh/6-cf47f9db-f24e-4ff4-ba4a-52adb83b2197.png",
+    "image2": "https://i.ibb.co/nQm1BQM/Artboard2-06492587-d25a-421f-8e94-9712c790614d.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "pt-32",
+    "id": 3,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1400,
+    "image1": "https://i.ibb.co/zG7712h/10.png",
+    "image2": "https://i.ibb.co/DGLkKYw/salmancover03.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "sh-21",
+    "id": 4,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1600,
+    "image1": "https://i.ibb.co/GJ1T3rw/7.png",
+    "image2": "https://i.ibb.co/12pHCFX/Artboard2-5c5607a9-ba80-4fc9-abd7-7132811a9488.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "pn-55",
+    "id": 5,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1800,
+    "image1": "https://i.ibb.co/SQRTNFC/12-007c3184-7fd2-4856-a2d9-f5675a00c3d9.png",
+    "image2": "https://i.ibb.co/g3jQM8G/Artboard3-f29a8d68-2599-473f-826f-47f93b799d83.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "pl-89",
+    "id": 7,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1250,
+    "image1": "https://i.ibb.co/Xy28fWH/6-cf47f9db-f24e-4ff4-ba4a-52adb83b2197-2.png",
+    "image2": "https://i.ibb.co/M8k9JQN/Artboard3-9b334fb6-1da3-419a-9fe4-bdc389ce73e4.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-22",
+    "id": 8,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 850,
+    "image1": "https://i.ibb.co/8gG2Jk4/PD-34.png",
+    "image2": "https://i.ibb.co/4jW31df/Artboard1-4a8f1a55-39df-4879-ab8e-4a3506851068.jpg",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "pt-41",
+    "id": 9,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1450,
+    "image2": "https://i.ibb.co/v3y06Gq/Artboard6.jpg",
+    "image1": "https://i.ibb.co/q1JSdGG/3.png",
+    "category": "new-arrival",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "sh-67",
+    "id": 10,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1550,
+    "image1": "https://i.ibb.co/L59TVCc/11-fddf6a6c-9c52-4148-b7f4-353c1e1d3d40.png",
+    "image2": "https://i.ibb.co/bmgfjnt/Artboard3-3ce30452-5510-4f02-87d9-20423016249a.jpg",
+    "name": "polo-shirt",
+    "category": "new-arrival"
+  },
+  {
+    "code_name": "pn-23",
+    "id": 11,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1300,
+    "image1": "https://i.postimg.cc/vmCSnk8W/Whats-App-Image2023-06-19at16-33-07.jpg",
+    "image2": "https://i.postimg.cc/7hkssz2h/Whats-App-Image2023-06-19at16-32-59.jpg",
+    "category": "Panjabi",
+    "name": "Panjabi"
+  },
+  {
+    "code_name": "pl-55",
+    "id": 13,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1100,
+    "image1": "https://i.postimg.cc/rFRjRZXC/Artboard3-62efe173-8925-4b9b-955b-4812d302599b.jpg",
+    "image2": "https://i.postimg.cc/kgxyfV52/Artboard1-8f189050-c547-4c7a-8abd-beb4e9cf9a06.jpg",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-19",
+    "id": 14,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 900,
+    "image1": "https://i.postimg.cc/RZjjnJDq/Screenshot2024-07-11180553.png",
+    "image2": "https://i.postimg.cc/sXzqTdyr/Screenshot2024-07-11180617.png",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-29",
+    "id": 15,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1500,
+    "image1": "https://i.postimg.cc/509PzCZM/Product-Image-1724218786.jpg",
+    "image2": "https://i.postimg.cc/1zGTwPXD/Product-Image-11724218786.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-11",
+    "id": 16,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1600,
+    "image1": "https://i.ibb.co/4g8RqGb/5.png",
+    "image2": "https://i.ibb.co/zRNKxGH/Artboard2-0009d300-4253-4fe6-ab4b-9aaebfdc1305.jpg",
+    "category": "shirt",
+    "name": "Shirt"
+  },
+  {
+    "code_name": "pn-12",
+    "id": 17,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1700,
+    "image1": "https://i.postimg.cc/G20qtDzK/Whats-App-Image2023-06-19at16-38-27.jpg",
+    "image2": "https://i.postimg.cc/sXpKh2Nr/Whats-App-Image2023-06-19at16-38-28.jpg",
+    "category": "panjabi",
+    "name": "Panjabi"
+  },
+  {
+    "code_name": "pl-66",
+    "id": 19,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1300,
+    "image1": "https://i.postimg.cc/Y2Zf7NG4/56-d0649fb1-4a83-4aad-ad74-0d551dd55514.jpg",
+    "image2": "https://i.postimg.cc/Y2Zf7NG4/56-d0649fb1-4a83-4aad-ad74-0d551dd55514.jpg",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-33",
+    "id": 20,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1000,
+    "image1": "https://i.postimg.cc/7LkKk3R1/DT03.jpg",
+    "image2": "https://i.postimg.cc/wTnWW8cG/TX-1copy.jpg",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-47",
+    "id": 21,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1400,
+    "image1": "https://i.postimg.cc/MGML3qvc/Product-Image-1717249847.jpg",
+    "image2": "https://i.postimg.cc/9MynVbPC/Product-Image-11717249847.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-13",
+    "id": 22,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1500,
+    "image1": "https://i.ibb.co/Kqgq5vD/9.png",
+    "image2": "https://i.ibb.co/S75vGSY/Artboard2-c797b11c-aa98-4433-8951-cafae3a46b18.jpg",
+    "category": "shirt",
+    "name": "Shirt"
+  },
+  {
+    "code_name": "pn-45",
+    "id": 23,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1600,
+    "image1": "https://i.postimg.cc/zv7jxcN2/Whats-App-Image2023-06-19at16-42-49.jpg",
+    "image2": "https://i.postimg.cc/RCLXCNt1/Whats-App-Image2023-06-19at16-42-50.jpg",
+    "category": "panjabi",
+    "name": "Panjabi"
+  },
+
+  {
+    "code_name": "pl-90",
+    "id": 24,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1350,
+    "image1": "https://i.postimg.cc/QdrQ9Xqh/Screenshot2024-07-11182802.png",
+    "image2": "https://i.postimg.cc/Zqb6HVgQ/Screenshot2024-07-11182732.png",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-30",
+    "id": 25,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 920,
+    "image1": "https://i.postimg.cc/44BqQSSD/Screenshot2024-07-11181948.png",
+    "image2": "https://i.postimg.cc/SNR5TG0J/Screenshot2024-07-11182009.png",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-55",
+    "id": 26,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1550,
+    "image1": "https://i.postimg.cc/Bbg7Pvwz/Product-Image-1717250107.jpg",
+    "image2": "https://i.postimg.cc/GhL5wk4n/Product-Image-11717250107.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-15",
+    "id": 27,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1650,
+    "image1": "https://i.ibb.co/5GrvxMd/4.png",
+    "image2": "https://i.ibb.co/FDHWn7C/Artboard4-cddc6096-1935-411f-a3ad-06faf27b0391.jpg",
+    "category": "shirt",
+    "name": "Shirt"
+  },
+  {
+    "code_name": "pn-99",
+    "id": 28,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1750,
+    "image1": "https://i.postimg.cc/qMBQN4cP/Whats-App-Image2023-06-19at16-49-30.jpg",
+    "image2": "https://i.postimg.cc/YqXRgZbh/Whats-App-Image2023-06-19at16-49-29.jpg",
+    "category": "panjabi",
+    "name": "Panjabi"
+  },
+  {
+    "code_name": "pl-100",
+    "id": 29,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1400,
+    "image1": "https://i.postimg.cc/fRhjQs2t/Screenshot2024-07-11184412.png",
+    "image2": "https://i.postimg.cc/G9nyyQGq/Screenshot2024-07-11184421.png",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-50",
+    "id": 30,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 800,
+    "image1": "https://i.postimg.cc/2SBtm8SY/Screenshot2024-07-11182412.png",
+    "image2": "https://i.postimg.cc/tgQMgQsx/Screenshot2024-07-11182422.png",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-60",
+    "id": 31,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1450,
+    "image1": "https://i.postimg.cc/rwzZzMGh/Product-Image-1717250536.jpg",
+    "image2": "https://i.postimg.cc/XYhHCmQn/Product-Image-11717250536.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-20",
+    "id": 32,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1600,
+    "image1": "https://i.ibb.co/17h0tdL/Artboard3-a006d0dc-5eb2-43ff-89fb-d2f545ba63f6.jpg",
+    "image2": "https://i.ibb.co/FDHWn7C/Artboard4-cddc6096-1935-411f-a3ad-06faf27b0391.jpg",
+    "category": "shirt",
+    "name": "Shirt"
+  },
+  {
+    "code_name": "pn-110",
+    "id": 33,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1700,
+    "image1": "https://i.postimg.cc/W1hn78HS/Whats-App-Image2023-06-19at16-36-56.jpg",
+    "image2": "https://i.postimg.cc/mgJSpMx4/Whats-App-Image2023-06-19at16-36-58.jpg",
+    "category": "panjabi",
+    "name": "Panjabi"
+  },
+  {
+    "code_name": "pl-101",
+    "id": 34,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1300,
+    "image1": "https://i.postimg.cc/13c09d2W/Screenshot2024-07-11184848.png",
+    "image2": "https://i.postimg.cc/43f6n5TX/Screenshot2024-07-11184858.png",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-35",
+    "id": 35,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 950,
+    "image1": "https://i.postimg.cc/BvTwLYFw/Screenshot2024-07-11185330.png",
+    "image2": "https://i.postimg.cc/gJGtvVqc/Screenshot2024-07-11185339.png",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-65",
+    "id": 36,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1500,
+    "image1": "https://i.postimg.cc/0Q1VtST3/Product-Image-1719213028.jpg",
+    "image2": "https://i.postimg.cc/FRbDwRmK/Product-Image-11719213028.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-25",
+    "id": 37,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1550,
+    "image1": "https://i.ibb.co/F0LQXF2/Untitled-1-1-4fbc3953-4e06-455c-93cb-a7e07bd6ea82.jpg",
+    "image2": "https://i.ibb.co/TvJBnB2/76.jpg",
+    "category": "shirt",
+    "name": "Shirt"
+  },
+  {
+    "code_name": "pn-120",
+    "id": 38,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1650,
+    "image1": "https://i.postimg.cc/xCyyd4Xj/Whats-App-Image2023-06-19at16-51-35.jpg",
+    "image2": "https://i.postimg.cc/QxMkXShs/Whats-App-Image2023-06-19at16-51-36.jpg",
+    "category": "panjabi",
+    "name": "Panjabi"
+  },
+  {
+    "code_name": "pl-102",
+    "id": 39,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1350,
+    "image1": "https://i.ibb.co/zG7712h/10.png",
+    "image2": "https://i.ibb.co/DGLkKYw/salmancover03.jpg",
+    "category": "polo-shirt",
+    "name": "polo-shirt"
+  },
+  {
+    "code_name": "ts-40",
+    "id": 40,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 980,
+    "image1": "https://i.postimg.cc/NFMNnQzW/Screenshot2024-07-11185414.png",
+    "image2": "https://i.postimg.cc/CLRPHLD8/Screenshot2024-07-11185358.png",
+    "category": "t-shirt",
+    "name": "T-Shirt"
+  },
+  {
+    "code_name": "pt-70",
+    "id": 41,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1480,
+    "image1": "https://i.postimg.cc/KvpQ6CXt/Product-Image-1724218968.jpg",
+    "image2": "https://i.postimg.cc/XYZx4x3m/Product-Image-11724218968.jpg",
+    "category": "pent",
+    "name": "pent"
+  },
+  {
+    "code_name": "sh-30",
+    "id": 42,
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1620,
+    "image1": "https://i.ibb.co/fY4TW7B/poster-02-1.png",
+    "image2": "https://i.ibb.co/fY4TW7B/poster-02-1.png",
+    "category": "shirt",
+    "name": "Shirt"
+  }
+]
